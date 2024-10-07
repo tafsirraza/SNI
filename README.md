@@ -1,1 +1,2 @@
-# SNI
+A Humble Note of Gratitude to the Esteemed Judges:
+We, the EcoPioneers, have devoted our passion and hard work to bringing this project to life within the given timeframe. Although it is not fully complete, we’ve implemented key features to the best of our abilities with the time we had. We respectfully look forward to your valuable feedback and guidance as we strive to further enhance and refine this project. Your support and insights would be truly appreciated.
